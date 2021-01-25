@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 ![JosineyJr github stats](https://github-readme-stats.vercel.app/api?username=JosineyJr&show_icons=true&theme=radical)
 
-![JosineyJr top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosineyJr&layout=compact)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">  
