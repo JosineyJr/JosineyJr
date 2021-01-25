@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosineyJr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caduxl007/github-readme-stats)
 
-![JosineyJr github stats](https://github-readme-stats.vercel.app/api?username=JosineyJr&show_icons=true)
+![JosineyJr github stats](https://github-readme-stats.vercel.app/api?username=JosineyJr&show_icons=true&theme=dark)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
