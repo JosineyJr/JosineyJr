@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | SmartGit | WebStorm | IntelliJ | DBeaver | Insomnia
 
-
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=caduxl007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"> -->
-
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosineyJr&layout=demo&text_color=daf7dc&theme=ayu-mirage)](https://github.com/caduxl007/github-readme-stats)               ![JosineyJr github stats](https://github-readme-stats.vercel.app/api?username=JosineyJr&show_icons=true&theme=ayu-mirage)
@@ -51,5 +48,5 @@ Here are some ideas to get you started:
 &nbsp; <a href="mailto:josineyjunior14@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<!--⭐️ From [devSouvik](https://github.com/caduxl007) --> 
+⭐️ From [devSouvik](https://github.com/JosineyJr) 
 
