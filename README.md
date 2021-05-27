@@ -11,7 +11,6 @@
 - 💻 &nbsp; Python | HTML | CSS | JavaScript | PHP | Java
 - 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Angular | Ionic
 - 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | SmartGit | WebStorm | IntelliJ | DBeaver | Insomnia
 
 </br>
 
