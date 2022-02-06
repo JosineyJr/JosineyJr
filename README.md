@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | HTML | CSS | JavaScript | PHP | Java
-- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Angular | Ionic
-- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql 
+- 💻 &nbsp; Typescript | Java
+- 🌐 &nbsp; React | ReactNative | Vue | Angular | Ionic
+- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | MongoDB | Redis 
 
 </br>
 
