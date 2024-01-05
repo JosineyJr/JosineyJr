@@ -8,8 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Typescript | Java
-- 🌐 &nbsp; React | ReactNative | Vue | Angular | Ionic
+- 💻 &nbsp; Nodejs | Typescript | Golang
 - 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | MongoDB | Redis 
 
 </br>
